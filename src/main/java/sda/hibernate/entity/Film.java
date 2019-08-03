@@ -17,7 +17,7 @@ public class Film {
     private String gatunek_filmu;
     @Column
     private String rezyser_filmu;
-    @Column
+    @Column(name="rok_produkcji")
     private Integer rokprodukcji;
 
     public Film() {

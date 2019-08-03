@@ -29,12 +29,12 @@ public class FilmDAO123 {
         return film;
     }
 
-    public static Film createNamedQueryById(Long id) {
+    public Film createNamedQueryById(Long id) {
         Film film;
         Session session = HibernateUtil.getSessionFactory().openSession();
         try {
             film = session.createNamedQuery("film.selectById", Film.class).setParameter("id", id).getSingleResult();
-            session.close();
+            /* session.close(); */
         } finally {
             session.close();
         }
