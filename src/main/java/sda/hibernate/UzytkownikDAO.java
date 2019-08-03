@@ -4,6 +4,7 @@ import org.hibernate.Session;
 import sda.hibernate.entity.Uzytkownik;
 
 public class UzytkownikDAO {
+
     public void insert(Uzytkownik uzytkownik) {
         Session session = HibernateUtil.getSessionFactory().openSession();
         session.beginTransaction();
