@@ -1,6 +1,5 @@
 package sda.hibernate;
 
-import sda.hibernate.FilmDAO123;
 import sda.hibernate.entity.Film;
 
 import java.util.List;
@@ -8,11 +7,11 @@ import java.util.List;
 public class Main123 {
     public static void main(String[] arg) {
         FilmDAO123 filmDAO = new FilmDAO123();
-        Film film1=filmDAO.createNamedQueryById(1L);
+        Film film1= FilmDAO123.createNamedQueryById(1L);
         Film film2 = filmDAO.createNativeQueryById(2L);
         Film film3 = filmDAO.createQueryById(3L);
 
-         System.out.println(film1.getId()+" "+film1.getNazwa_filmu()+" "+film1.getGatunek_filmu()+" "+film1.getRezyser_filmu()+" "+film1.getRokprodukcji());
+        System.out.println(film1.getId()+" "+film1.getNazwa_filmu()+" "+film1.getGatunek_filmu()+" "+film1.getRezyser_filmu()+" "+film1.getRokprodukcji());
 
         System.out.println(film2.getId() + " " + film2.getNazwa_filmu() + " " + film2.getGatunek_filmu() + " " + film2.getRezyser_filmu() + " " + film2.getRokprodukcji());
 
