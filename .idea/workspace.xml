@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d76489e-4e10-4273-a76d-841447d76e14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hibernate-embedded-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernate-rozwiazanie-dziedziczenie-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie_obiekty_wbudowane.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polskie_znaki_poprawne_przekazywanie_w_BD" beforeDir="false" afterPath="$PROJECT_DIR$/polskie_znaki_poprawne_przekazywanie_w_BD" afterDir="false" />
     </list>
@@ -52,19 +55,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/polskie_znaki_poprawne_przekazywanie_w_BD">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="69" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
+            <state relative-caret-position="54">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/przyklad2/przyklad2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
+            <state relative-caret-position="-243">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
@@ -251,16 +254,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate" />
       <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src\main\java\sda\hibernate\entity\przyklad3" />
       <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src\main\java\sda\hibernate\entity\przyklad1" />
       <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src\main\java\sda\hibernate\entity\przyklad2" />
       <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src\main\java\sda\hibernate" />
-      <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src\main\java\sda\hibernate\entity" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src\main\java\sda\hibernate" />
@@ -491,12 +494,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564912271336</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Hibernate_sob">
+      <created>1564912310577</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1564912310577</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -705,13 +714,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/przyklad2/przyklad2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad3/przyklad3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -724,8 +726,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/polskie_znaki_poprawne_przekazywanie_w_BD">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="69" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/przyklad2/przyklad2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
