@@ -7,6 +7,10 @@ import javax.persistence.*;
 @DiscriminatorColumn(name="typ_produktu",discriminatorType=DiscriminatorType.STRING)
 @Table(name = "produkt2")
 public class Produkt2 {
+    public Produkt2() {
+        //this.id = id;
+    }
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;

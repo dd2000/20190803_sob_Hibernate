@@ -7,6 +7,10 @@ import javax.persistence.Entity;
 @Entity
 @DiscriminatorValue("telefon")
 public class Telefon2 extends Produkt2 {
+    public Telefon2() {
+    //    this.nazwaModelu = nazwaModelu;
+    }
+
     @Column
     private String nazwaModelu;
 

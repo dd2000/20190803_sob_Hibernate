@@ -7,6 +7,11 @@ import javax.persistence.Entity;
 @Entity
 @DiscriminatorValue("samochod")
 public class Samochod2 extends Produkt2 {
+
+    public Samochod2() {
+    //    this.marka = marka;
+    }
+
     @Column
     private String marka;
 

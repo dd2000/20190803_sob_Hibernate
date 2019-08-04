@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d76489e-4e10-4273-a76d-841447d76e14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad1/Produkt1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad1/Samochod1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad1/Telefon1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Produkt2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Samochod2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Telefon2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad3/Produkt3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad3/Samochod3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad3/Telefon3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polskie_znaki_poprawne_przekazywanie_w_BD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Produkt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Produkt2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Samochod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Samochod2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Telefon2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Telefon2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,41 +30,45 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/przyklad2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+            <state relative-caret-position="540">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
               <folding>
-                <element signature="e#0#931#0" expanded="true" />
+                <element signature="e#0#834#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad4/Telefon4.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad3/przyklad3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="27">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/polskie_znaki_poprawne_przekazywanie_w_BD">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad4/Samochod4.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/przyklad2/przyklad2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad4/Produkt4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="27">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -90,6 +89,13 @@
         <option value="$PROJECT_DIR$/src/main/java/sda/hibernate/FilmDAO123.java" />
         <option value="$PROJECT_DIR$/src/main/java/sda/hibernate/Main123.java" />
         <option value="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/Film.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/przyklad2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad3/przyklad3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad1/przyklad1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Samochod2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Produkt2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Telefon2.java" />
+        <option value="$PROJECT_DIR$/polskie_znaki_poprawne_przekazywanie_w_BD" />
       </list>
     </option>
   </component>
@@ -275,20 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.przyklad4">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sda.hibernate.Main" />
-      <module name="_20190803_sob_Hibernate" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sda.hibernate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.przyklad2 (1)">
     <configuration name="Main123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sda.hibernate.Main123" />
       <module name="_20190803_sob_Hibernate" />
@@ -308,6 +301,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sda.hibernate.entity.przyklad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="przyklad2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sda.hibernate.przyklad2.przyklad2" />
+      <module name="_20190803_sob_Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sda.hibernate.przyklad2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,11 +349,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.przyklad2 (1)" />
+        <item itemvalue="Application.przyklad2" />
         <item itemvalue="Application.przyklad4" />
         <item itemvalue="Application.przyklad1 (1)" />
-        <item itemvalue="Application.przyklad2" />
         <item itemvalue="Application.Main123" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -474,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564910113354</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Hibernate_sob">
+      <created>1564910849031</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1564910849031</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -553,13 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/przyklad2/przyklad2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -625,10 +631,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad4/Samochod4.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad1/przyklad1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="162">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -636,6 +645,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad4/Samochod4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -653,13 +669,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Produkt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Telefon2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Samochod2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/przyklad2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        <state relative-caret-position="540">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding>
-            <element signature="e#0#931#0" expanded="true" />
+            <element signature="e#0#834#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/przyklad2/przyklad2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad3/przyklad3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polskie_znaki_poprawne_przekazywanie_w_BD">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
         </state>
       </provider>
     </entry>
