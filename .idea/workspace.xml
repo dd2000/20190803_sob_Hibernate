@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d76489e-4e10-4273-a76d-841447d76e14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/org/hibernate/query/annotations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/org/hibernate/query/spi/annotations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sda/hibernate/FilmDAO123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/FilmDAO123.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sda/hibernate/Main123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/Main123.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/Film.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2d76489e-4e10-4273-a76d-841447d76e14" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/HibernateUtil123.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
@@ -55,27 +47,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.2.Final/hibernate-core-5.4.2.Final-sources.jar!/org/hibernate/internal/AbstractSharedSessionContract.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="834" column="4" lean-forward="true" selection-start-line="834" selection-start-column="4" selection-end-line="834" selection-end-column="4" />
-              <folding>
-                <element signature="e#27526#27574#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/Film.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
@@ -209,7 +180,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/sda/hibernate/entity" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -217,8 +188,8 @@
       <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src\main\java\sda\hibernate" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src\main\java\sda\hibernate\entity" />
       <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate" />
+      <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src\main\java\sda\hibernate\entity" />
       <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src" />
     </key>
   </component>
@@ -363,7 +334,21 @@
       <option name="project" value="LOCAL" />
       <updated>1564832356212</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Hibernate_sob">
+      <created>1564835733424</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1564835733424</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Hibernate_sob">
+      <created>1564837339776</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1564837339776</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -375,7 +360,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -383,7 +368,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6166667" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -458,17 +443,17 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/HibernateUtil123.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.2.Final/hibernate-core-5.4.2.Final.jar!/org/hibernate/internal/AbstractSharedSessionContract.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="655" column="65" selection-start-line="655" selection-start-column="65" selection-end-line="655" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/Film.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -506,10 +491,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/Film.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/HibernateUtil123.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="108">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
         </state>
       </provider>
     </entry>
