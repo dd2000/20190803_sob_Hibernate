@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d76489e-4e10-4273-a76d-841447d76e14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/polskie_znaki_poprawne_przekazywanie_w_BD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Produkt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Produkt2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Samochod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Samochod2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Telefon2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Telefon2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polskie_znaki_poprawne_przekazywanie_w_BD" beforeDir="false" afterPath="$PROJECT_DIR$/polskie_znaki_poprawne_przekazywanie_w_BD" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/polskie_znaki_poprawne_przekazywanie_w_BD">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
-              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+              <caret line="1" column="69" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -487,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564910849031</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Hibernate_sob">
+      <created>1564912271336</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1564912271336</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -721,7 +725,7 @@
     <entry file="file://$PROJECT_DIR$/polskie_znaki_poprawne_przekazywanie_w_BD">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <caret line="1" column="69" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
         </state>
       </provider>
     </entry>
