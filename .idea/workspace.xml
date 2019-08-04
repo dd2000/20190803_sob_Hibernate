@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d76489e-4e10-4273-a76d-841447d76e14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test_bd_hibernate.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad1/Produkt1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad1/Samochod1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad1/Telefon1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Produkt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Samochod2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/Telefon2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad3/Produkt3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad3/Samochod3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad3/Telefon3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,7 +25,56 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/przyklad4/przyklad4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/przyklad2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#931#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad4/Telefon4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad4/Samochod4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad4/Produkt4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -107,6 +164,46 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="przyklad1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_20190803_sob_Hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_20190803_sob_Hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="przyklad2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_20190803_sob_Hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_20190803_sob_Hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="przyklad3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_20190803_sob_Hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_20190803_sob_Hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="przyklad4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_20190803_sob_Hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_20190803_sob_Hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
               <item name="przyklad1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -132,6 +229,15 @@
               <item name="_20190803_sob_Hibernate" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="przyklad4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_20190803_sob_Hibernate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_20190803_sob_Hibernate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -142,14 +248,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/sda/hibernate" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad3" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate" />
+      <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src\main\java\sda\hibernate\entity\przyklad3" />
+      <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src\main\java\sda\hibernate\entity\przyklad1" />
+      <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src\main\java\sda\hibernate\entity\przyklad2" />
+      <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src\main\java\sda\hibernate" />
       <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src\main\java\sda\hibernate\entity" />
-      <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\JAVA_SDA\_20190803_sob_Hibernate\src\main\java\sda\hibernate" />
@@ -167,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main123">
+  <component name="RunManager" selected="Application.przyklad4">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sda.hibernate.Main" />
       <module name="_20190803_sob_Hibernate" />
@@ -194,12 +302,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="przyklad1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sda.hibernate.przyklad1.przyklad1" />
+    <configuration name="przyklad1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sda.hibernate.entity.przyklad1.przyklad1" />
       <module name="_20190803_sob_Hibernate" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sda.hibernate.przyklad1.*" />
+          <option name="PATTERN" value="sda.hibernate.entity.przyklad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="przyklad2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sda.hibernate.entity.przyklad2.przyklad2" />
+      <module name="_20190803_sob_Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sda.hibernate.entity.przyklad2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="przyklad4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sda.hibernate.przyklad4.przyklad4" />
+      <module name="_20190803_sob_Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sda.hibernate.przyklad4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,9 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.przyklad4" />
+        <item itemvalue="Application.przyklad1 (1)" />
+        <item itemvalue="Application.przyklad2" />
         <item itemvalue="Application.Main123" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.przyklad1" />
       </list>
     </recent_temporary>
   </component>
@@ -324,11 +460,26 @@
       <option name="project" value="LOCAL" />
       <updated>1564909800285</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Hibernate_sob">
+      <created>1564909936385</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1564909936385</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Hibernate_sob">
+      <created>1564910113354</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1564910113354</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -348,7 +499,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -470,6 +621,44 @@
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad4/Samochod4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad4/Telefon4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad4/Produkt4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/przyklad4/przyklad4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sda/hibernate/entity/przyklad2/przyklad2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#931#0" expanded="true" />
           </folding>
         </state>
       </provider>

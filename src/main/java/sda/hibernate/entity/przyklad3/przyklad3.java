@@ -5,8 +5,6 @@ package sda.hibernate.entity.przyklad3;
 
 import org.hibernate.Session;
 import sda.hibernate.HibernateUtil;
-import sda.hibernate.entity.przyklad3.Samochod3;
-import sda.hibernate.entity.przyklad3.Telefon3;
 
 public class przyklad3 {
 
