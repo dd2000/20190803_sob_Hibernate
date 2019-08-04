@@ -8,6 +8,8 @@ import org.hibernate.Session;
 import sda.hibernate.HibernateUtil;
 import sda.hibernate.entity.Uzytkownik;
 
+import javax.persistence.Embedded;
+
 public class przyklad2 {
     public static void main(String[] arg) {
         usePersist();
@@ -40,4 +42,5 @@ public class przyklad2 {
         System.out.println("Dodano nowego uzytkownika, przy pomocy merge() o id=" + nowyUzytkownik.getId() + ", imie=" + nowyUzytkownik.getImie() + ", nazwisko=" + nowyUzytkownik.getNazwisko());
         return nowyUzytkownik;
     }
+
 }
